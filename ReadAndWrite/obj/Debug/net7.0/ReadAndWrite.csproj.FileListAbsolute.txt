@@ -1,0 +1,15 @@
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.exe
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.deps.json
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.runtimeconfig.json
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.pdb
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.csproj.AssemblyReference.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.AssemblyInfo.cs
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\refint\ReadAndWrite.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.pdb
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.genruntimeconfig.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\ReadAndWrite\obj\Debug\net7.0\ref\ReadAndWrite.dll

@@ -1,0 +1,15 @@
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.exe
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.deps.json
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.runtimeconfig.json
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.pdb
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.csproj.AssemblyReference.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.AssemblyInfoInputs.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.AssemblyInfo.cs
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\refint\ValueAndReferenceType.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.pdb
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.genruntimeconfig.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\OOP\ValueAndReferenceType\obj\Debug\net7.0\ref\ValueAndReferenceType.dll
